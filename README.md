@@ -4,6 +4,12 @@
 
 У данного лаунчера есть обход блокировок благодаря чему обновления будут загружаться без проблем
 
+# !!!! ЕСЛИ ЛАУНЧЕР НЕ ЗАПУСКЕТСЯ ПОСЛЕ УСТАНОВКИ 
+Нужно тыкнуть по ярлыку на рабочем столе - Открыть расположение файла
+правой кнопкой по экзешнику лаунчера в папке - свойства - совместимость - запускать от имени администратора - применить
+<img width="1258" height="587" alt="image" src="https://github.com/user-attachments/assets/d818d201-7060-4af8-a467-131011caa456" />
+
+
 ### Инструкция
 - Перейти в Releases скачать последнюю доступную версию
 - После установки лаунчера нужно войти в свой Discord аккаунт
@@ -18,6 +24,11 @@
 ## **EN** Project Description
 
 This launcher has a censorship bypass, so updates will download without problems.
+
+# !!!! IF THE LAUNCHER DOES NOT START AFTER INSTALLATION 
+You need to click on the shortcut on the desktop - Open the file location
+with the right mouse button on the launcher in the folder - properties - compatibility - run as administrator - apply
+<img width="1258" height="587" alt="image" src="https://github.com/user-attachments/assets/d818d201-7060-4af8-a467-131011caa456" />
 
 ### Instructions
 - Go to Releases and download the latest available version
